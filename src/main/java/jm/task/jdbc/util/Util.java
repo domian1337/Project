@@ -7,7 +7,7 @@ public class Util {
 
     public static String url = "jdbc:mysql://localhost:3306/users";
     public static String name = "root";
-    public static String password = "Ljvbfy12072003@";
+    public static String password = "root";
 
     public static Connection getConnection() {
         Connection connection = null;
